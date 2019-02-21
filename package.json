@@ -1,0 +1,25 @@
+{
+  "name": "geography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur2709/Geography.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur2709/Geography/issues"
+  },
+  "homepage": "https://github.com/Arthur2709/Geography#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "node-modules": "^1.0.1"
+  }
+}
